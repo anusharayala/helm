@@ -21,15 +21,4 @@ entries:
     urls:
     - myapp-0.1.0.tgz
     version: 0.1.0
-  myapp1:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-10T10:08:43.003300259Z"
-    description: A Helm chart for Kubernetes
-    digest: db7d5decbb72a7346cd3e8a014df20bcfb8209901fe2ee29d3b70c6ae29f4df0
-    name: myapp1
-    type: application
-    urls:
-    - myapp1-0.1.0.tgz
-    version: 0.1.0
 generated: "2022-05-10T10:08:42.995820536Z"
